@@ -1,0 +1,13 @@
+name: Spotify
+title: Spotify
+username:
+account: dungates
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4409682
+bundleId: 4905985
+url: https://dungates.shinyapps.io/Spotify/
+when: 1628560678.00705
+lastSyncTime: 1628560678.00706
+asMultiple: FALSE
+asStatic: FALSE

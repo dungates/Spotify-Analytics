@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed");
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre");
+@import url("https://fonts.googleapis.com/css2?family=Amiko");
+
+
+@font-face{
+  font-family: Roboto Condensed;
+  src:url(vcr.ttf);
+  /*font-weight:400;*/
+}
+
+a.sidebar-toggle:hover {
+  background: #000000 !important;
+}
+
+body.skin-blue {
+  font-family: "Roboto Condensed";
+}
+
+.skin-blue .main-header .logo {
+  background-color: #000000 !important;
+}
+.highcharts-label.highcharts-data-label.highcharts-data-label .highcharts-text-outline {
+  stroke-width: "1px" !important;
+  stroke: 1DB954 !important;
+}
+
+.highcharts-label.highcharts-data-label.highcharts-data-label>text {
+  fill: #FFFFFF !important;
+}
+text.highcharts-title {
+  font-family: "Averia Serif Libre" !important;
+  font-size: 13px !important;
+  fill: #FFFFFF !important;
+}
+rect.highcharts-point.highcharts-color-0 {
+  fill: #FFFFFF;
+}
+
+.highcharts-container > svg > rect.highcharts-background {
+  fill: #121212;
+}
+.nav-tabs-custom>.tab-content {
+  background: #121212;
+}
+.highcharts-label.highcharts-data-label>text{
+  font-size: 15px !important;
+}
+.table-striped .odd{
+  background-color: #000000 !important;
+}
+.table-striped .row >td{
+  border-top: 0px transparent;
+}
+.nav-tabs-custom {
+  background: #121212;
+  font-family: "Roboto Condensed";
+  color: #FFFFFF
+}
+.nav-tabs-custom>.nav-tabs>li.active>a {
+  background-color: #121212;
+  font-family: "Roboto Condensed";
+  color: #FFFFFF
+}
+
+.nav-tabs-custom>li>a:hover {
+  background-color: #FFFFFF;
+  color: #000000
+}
+.nav-tabs-custom>.nav-tabs>li.active>a:hover {
+  background-color: #FFFFFF;
+  color: #000000
+}
+.header.pull-right {
+  color: #FFFFFF !important;
+  font-family: "Roboto Condensed";
+  font-size: 24px !important;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+  border-top-color: #1DB954
+}
+.table-striped .even{
+  background-color: #282828 !important;
+  border-top: 1px solid rgba(4, 104, 0, 0)
+}
+.box {
+  border-top: 3px solid #1DB954;
+  background: #121212;
+  border-radius: 0px;
+}
+.box-body {
+  background-color: #121212;
+  background: #121212;
+  color: #FFFFFF;
+  font-family: "Roboto Condensed";
+}
+.btn {
+  border-radius: 0px;
+  margin: 0px !important;
+  display: inline-block !important;
+}
+.btn:hover{
+  background-color: #1DB954!important;
+}
+.form-control {
+  background-color: #FFFFFF
+}
+.content-wrapper {
+  background-color: #282828
+}
+.box-header {
+  background-color: #121212;
+  color: #FFFFFF;
+}
+.box-header .box-title {
+  font-family: "Roboto Condensed";
+  font-size: 20px;
+}
+.selectize-input {
+  background-color: #FFFFFF;
+  border-radius: 0px;
+}
+.skin-blue .main-header .logo {
+  background-color: #000000
+}
+.skin-blue .main-header .navbar {
+  background-color: #000000
+}
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+  background: #282828;
+  border-left-color: #1DB954;
+  font-family: "Roboto Condensed";
+}
+.skin-blue .sidebar a {
+  font-family: "Roboto Condensed";
+}
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+  font-family: "Roboto Condensed";
+}
+
+.footnote {
+  font-family: "Roboto Condensed";
+  font-size: 12px;
+  color: #FFFFFF;
+  bottom: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  z-index: 998;
+}
+.footnote:hover {
+  color: #FFFFFF;
+}
+th.sorting {
+  color: #FFFFFF;
+}
+th {
+  color: #000000;
+}
+.shiny-output-error-validation, .no-artist-chosen {
+  font-family: "Roboto Condensed";
+  font-size: 40px;
+  margin-top: 20px;
+  color: #1DB954;
+}
+.main-sidebar .box-body {
+  font-family: "Roboto Condensed";
+  padding: 0cm
+}
+.main-sidebar .box-body .form-group {
+  padding: 0cm;
+}
+.main-sidebar {
+  background-color: #121212!important;
+}
+
+.left-side, .main-sidebar {
+  width: 260px
+}
+.content-wrapper, .main-footer, .right-side {
+  margin-left: 260px;
+}
+#add-choo-search_albums2 {
+  white-space: normal!important;
+  width: 100px;
+}
+#add-choo-search_tracks_all_albums {
+  white-space: normal!important;
+  width: 105px;
+}
+#add-img-print_artist_img {
+
+}
+#add-img-print_artist_img>img {
+}
+[class*="col-"] {
+  padding-right:15px;
+}
+.wrapper {
+  /*overflow: auto!important;*/
+  background-color: #282828!important;
+}
+.sidebar-menu shiny-bound-input>div {
+      
+}
+.sidebar {
+  padding-bottom: 0px;
+}
+.sidebar-menu {
+  overflow: visible;
+}
+
+svg > g > g > g > g[class*="highcharts-legend-item-hidden"] > text {
+  fill: #cccccc !important;
+}
+g.highcharts-legend > g > g > g > text {
+  fill: #FFFFFF !important;
+}
+
+.shiny-output-error-validation, .no-artist-chosen {
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  font-size: 60px;
+  color: white;
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em #1DB954, 0 0 0.3em #1DB954;
+}
+
+section.sidebar .shiny-bound-input.action-button, section.sidebar .shiny-bound-input.action-link {
+  width: 100%;
+}
+
+
+
+
